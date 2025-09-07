@@ -1,0 +1,89 @@
+{
+  "youtube": [
+    {
+      "workflow": "How To Connect Google Sheets to N8N in 5 Minutes: Easy Tutorial",
+      "platform": "YouTube",
+      "popularity_metrics": {
+        "views": 95251,
+        "likes": 1118,
+        "comments": 186,
+        "like_to_view_ratio": 0.011737409581001773,
+        "comment_to_view_ratio": 0.00195273540435271
+      },
+      "country": "US",
+      "source_url": "https://www.youtube.com/watch?v=pWGXlZBGu4k"
+    },
+    {
+      "workflow": "Google Sheets on Autopilot: 11 Insane n8n Automation Hacks",
+      "platform": "YouTube",
+      "popularity_metrics": {
+        "views": 57072,
+        "likes": 1004,
+        "comments": 65,
+        "like_to_view_ratio": 0.017591813849172973,
+        "comment_to_view_ratio": 0.0011389122511914775
+      },
+      "country": "US",
+      "source_url": "https://www.youtube.com/watch?v=c8D1PP2erbo"
+    },
+    {
+      "workflow": "How To Connect Google Sheets To Your n8n AI Automation Workflow",
+      "platform": "YouTube",
+      "popularity_metrics": {
+        "views": 3944,
+        "likes": 61,
+        "comments": 11,
+        "like_to_view_ratio": 0.015466531440162272,
+        "comment_to_view_ratio": 0.002789046653144016
+      },
+      "country": "US",
+      "source_url": "https://www.youtube.com/watch?v=R9xaJ8vFXBY"
+    },
+    {
+      "workflow": "How to Connect Google Sheet in n8n - Step by Step",
+      "platform": "YouTube",
+      "popularity_metrics": {
+        "views": 12110,
+        "likes": 86,
+        "comments": 8,
+        "like_to_view_ratio": 0.007101568951279934,
+        "comment_to_view_ratio": 0.0006606110652353427
+      },
+      "country": "US",
+      "source_url": "https://www.youtube.com/watch?v=SCPbYzITRxw"
+    },
+    {
+      "workflow": "Google Sheets in n8n – Read, Append, Update, Filter & Delete",
+      "platform": "YouTube",
+      "popularity_metrics": {
+        "views": 15343,
+        "likes": 164,
+        "comments": 14,
+        "like_to_view_ratio": 0.010688913511047383,
+        "comment_to_view_ratio": 0.0009124682265528254
+      },
+      "country": "US",
+      "source_url": "https://www.youtube.com/watch?v=M3z_X_hiUC8"
+    }
+  ],
+  "google": [],
+  "forum": [
+    {
+      "workflow": "n8n Discord Bot",
+      "platform": "Forum",
+      "popularity_metrics": {
+        "views": null,
+        "likes": null,
+        "comments": 30,
+        "replies": 100,
+        "contributors": 12,
+        "search_interest": null,
+        "like_to_view_ratio": null,
+        "comment_to_view_ratio": null
+      },
+      "country": "IN",
+      "source_url": "https://community.n8n.io/example-thread",
+      "fetched_at": "2025-09-06T18:00:14.652388"
+    }
+  ]
+}

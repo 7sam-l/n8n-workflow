@@ -1,0 +1,13 @@
+# API Framework
+fastapi
+uvicorn
+
+# HTTP Requests
+requests
+
+# Google APIs
+google-api-python-client
+pytrends
+
+# Data Validation
+pydantic

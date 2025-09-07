@@ -1,0 +1,162 @@
+[
+  {
+    "workflow": "n8n Google Sheets",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 19.056603773584907
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Google Sheets",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 8.962264150943396
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Slack",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 23.452830188679247
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Slack",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 5.30188679245283
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Discord",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 8.88679245283019
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Discord",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 3.7358490566037736
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Airtable",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 13.30188679245283
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Airtable",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 3.0
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Notion",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 15.924528301886792
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Notion",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 3.2641509433962264
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Google Sheets",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 19.037735849056602
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Google Sheets",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 9.0
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Slack",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 23.358490566037737
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Slack",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 5.245283018867925
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Discord",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 8.830188679245284
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Discord",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 3.7735849056603774
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Airtable",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 13.30188679245283
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Airtable",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 3.018867924528302
+    },
+    "country": "IN"
+  },
+  {
+    "workflow": "n8n Notion",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 15.849056603773585
+    },
+    "country": "US"
+  },
+  {
+    "workflow": "n8n Notion",
+    "platform": "Google Trends",
+    "popularity_metrics": {
+      "search_interest": 3.169811320754717
+    },
+    "country": "IN"
+  }
+]
