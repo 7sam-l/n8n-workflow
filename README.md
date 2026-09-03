@@ -1,4 +1,4 @@
-# SpeakGenie Assignment – Workflow Popularity Tracker
+# SpeakGenie – Workflow Popularity Tracker
 
 ## Features
 - Fetches most popular n8n workflows from YouTube, Google Trends, and Forums
